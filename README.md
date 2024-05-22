@@ -1,4 +1,4 @@
-# SpeedJam5 Game Jam Submission
+# SpeedJam5 Game Jam Project
 
 The Team:
 - [SiropFraiseCitron](https://github.com/SiropFraiseCitron)
